@@ -54,6 +54,11 @@ body {
   color: #453c52;
 }
 
+.TodoItem-dueDate {
+  font-size: 12px;
+  color: rgb(103, 89, 123);
+  margin-left: 12px;
+}
 .TodoSectionTitle-title {
   font-size: 16px;
   line-height: 1;
